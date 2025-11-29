@@ -1,4 +1,4 @@
-# SME0823 - Avaliação 2
+# SME0823 -  Modelos de Regressão e Aprendizado Supervisionado II - Avaliação 2
 
 Repositório contendo a resolução da segunda avaliação da disciplina **SME0823 - Modelos de Regressão e Aprendizado Supervisionado II**, ministrada pela Profa. Cibele Russo no ICMC-USP.
 
